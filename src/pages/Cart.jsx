@@ -9,8 +9,8 @@ export default function Cart() {
         maxWidth: "800px",
         margin: "auto",
         padding: "20px",
-        backgroundColor: "#f5f5f5",
-        color: "#111",
+        backgroundColor: "lavender",
+        color: "#512f69",
         fontFamily: "Arial, sans-serif",
         borderRadius: "10px",
     };
